@@ -1,0 +1,9 @@
+C:\Users\luism\Desktop\group-dgview\group-dgview\bin\Debug\group-dgview.exe.config
+C:\Users\luism\Desktop\group-dgview\group-dgview\bin\Debug\group-dgview.exe
+C:\Users\luism\Desktop\group-dgview\group-dgview\bin\Debug\group-dgview.pdb
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group-dgview.csprojResolveAssemblyReference.cache
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group_dgview.Form1.resources
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group_dgview.Properties.Resources.resources
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group-dgview.csproj.GenerateResource.Cache
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group-dgview.exe
+C:\Users\luism\Desktop\group-dgview\group-dgview\obj\Debug\group-dgview.pdb
